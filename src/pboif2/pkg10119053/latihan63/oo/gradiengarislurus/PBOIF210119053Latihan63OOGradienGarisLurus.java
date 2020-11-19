@@ -9,6 +9,10 @@ import model.Koordinat;
 /**
  *
  * @author Dean
+ * Nama  : Dean Ghifari Faturrahman
+ * Kelas : PBOIF2
+ * NIM   : 10119053
+ * Deskripsi Program : Program ini berisi program gradien garis lurus
  */
 public class PBOIF210119053Latihan63OOGradienGarisLurus {
 
